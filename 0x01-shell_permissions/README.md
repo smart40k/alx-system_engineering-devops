@@ -1,1 +1,1 @@
-1, my name is who am i
+1. my name is whoami
