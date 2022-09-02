@@ -1,0 +1,4 @@
+#!/bin/bash
+1-listit
+
+su 1-listit
