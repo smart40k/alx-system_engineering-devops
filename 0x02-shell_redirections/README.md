@@ -1,1 +1,1 @@
-cat /etc/passwd /etc/hosts
+tr A Z | tr c e
